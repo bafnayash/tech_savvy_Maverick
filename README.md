@@ -31,4 +31,5 @@ env FLASK_ENV=development FLASK_APP=app.py flask run
 ## UI
 
 <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/UI1.png" height = "261" width = "464"> <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/UI2.png" height = "261" width = "464" align = "right">
+<br> <br>
 <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/Recommend.png" height = "261" width = "464"> <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/Map.png" height = "261" width = "464" align = "right">
