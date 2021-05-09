@@ -1,6 +1,6 @@
 # tech_savvy_Maverick
 
-## CrossSell_Upsell Problem Statement
+## CrossSell_Upsell Solution
 
 In this project, we have built a hybrid recommender system based on user based collaborative filtering and context aware filtering technique to recommend products to the customer for cross selling and upselling. Unsupervised learning algorithm K-Means Clustering is used to determine the location cluster to which the customer belongs based on their geographical coordinates. The insights gained from this are used to suggest products based on user-user based cosine similarity. This recommender system will thus help to increase its profit margins.
 
@@ -31,5 +31,5 @@ env FLASK_ENV=development FLASK_APP=app.py flask run
 ## UI
 
 <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/UI1.png" height = "261" width = "464"> <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/UI2.png" height = "261" width = "464" align = "right">
-<br> <br>
+
 <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/Recommend.png" height = "261" width = "464"> <img src = "https://github.com/bafnayash/tech_savvy_Maverick/blob/main/UI_screenshots/Map.png" height = "261" width = "464" align = "right">
